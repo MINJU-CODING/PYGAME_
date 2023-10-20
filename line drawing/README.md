@@ -12,7 +12,7 @@ if you connect all the dots within 30 seconds, the time taken will be displayed,
 </br>
 
 ## Pictures    
-<img width="30%" src="https://user-images.githubusercontent.com/92027143/218973206-9b0be17d-5686-460e-9709-1422792aa47d.png" >        
+<img width="30%" src="[https://user-images.githubusercontent.com/92027143/218973206-9b0be17d-5686-460e-9709-1422792aa47d.png](https://github.com/MINJU-CODING/PYGAME_/assets/146350230/4ea36b45-e4ef-494f-ba3e-ab8cb352446e)" >        
 Picture of running game
 </br>
 </br>
